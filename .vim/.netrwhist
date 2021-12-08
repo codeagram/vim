@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/ak/invoicely/invoicely_vue/src/assets'
+let g:netrw_dirhist_2='/home/ak/Django/blog/mysite/mysite'
+let g:netrw_dirhist_3='/home/ak/vue-element-admin/src/layout/components/Settings'
+let g:netrw_dirhist_4='/home/ak/vue-element-admin/src/layout/components/TagsView'
+let g:netrw_dirhist_5='/usr/share/phpmyadmin/templates'
+let g:netrw_dirhist_6='/usr/share/phpmyadmin/templates/home'
+let g:netrw_dirhist_7='/home/ak/mobile_app/FLASK_API/application'
